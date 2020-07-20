@@ -4,7 +4,7 @@
 A simple command line role-playing game
 
 ### Installation and Running
-- This project was developed in Python 3.8
+- This project was developed in Python 3.8. This will need to be installed prior to running the project.
 - This project does not use any external libraries.
 - Run `python3 play.py`
 
